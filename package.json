@@ -1,0 +1,10 @@
+{
+	"name" : "SpezTeh",
+	"version" : "0.0.1",
+	"devDependencies" : {
+		"grunt" : "latest",
+		"grunt-contrib-htmlmin" : "latest",
+		"grunt-contrib-cssmin" : "latest",
+		"grunt-contrib-watch" : "latest"
+	}
+}
